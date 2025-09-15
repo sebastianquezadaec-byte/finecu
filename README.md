@@ -1,0 +1,2 @@
+# finecu
+Aplicacion financiera
